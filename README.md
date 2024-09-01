@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prince Hazarika</h1>
 <h3 align="center">Seeking a dynamic role in Data Science, AI/ML, DBMS and Analytics to leverage my expertise in Data Science, MLOps, and AI. I aim to contribute to impactful projects in Data Analytics, Model Development, NLP, and Computer Vision, applying my skills in technical and business analysis, language processing, LLM development, and database management to drive actionable insights and innovative solutions.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif">
+
 
 - 🔭 I’m currently working on **AI-Imagica : Vision Transformer-Driven Image Quality Optimization System**
 
