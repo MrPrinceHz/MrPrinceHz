@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*iGdFJTHMIG79N2HChWaooQ.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*iGdFJTHMIG79N2HChWaooQ.gif)
 <h1 align="center">Hi 👋, I'm Prince Hazarika</h1>
 <h3 align="center">Seeking a dynamic role in Data Science, AI/ML, DBMS and Analytics to leverage my expertise in Data Science, MLOps, and AI. I aim to contribute to impactful projects in Data Analytics, Model Development, NLP, and Computer Vision, applying my skills in technical and business analysis, language processing, LLM development, and database management to drive actionable insights and innovative solutions.</h3>
 
