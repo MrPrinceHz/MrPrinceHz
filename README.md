@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*iGdFJTHMIG79N2HChWaooQ.gif)
 <h1 align="center">Hi 👋, I'm Prince Hazarika</h1>
-<h3 align="center">Seeking a dynamic role in Data Science, AI/ML, DBMS and Analytics to leverage my expertise in Data Science, MLOps, and AI. I aim to contribute to impactful projects in Data Analytics, Model Development, NLP, and Computer Vision, applying my skills in technical and business analysis, language processing, LLM development, and database management to drive actionable insights and innovative solutions.</h3>
+<h3 align="center">A skilled CS undergraduate with expertise in Python programming, SQL, Artificial Intelligence and Machine Learning (AI/ML), Natural Language Processing (NLP), Operating Systems, System Design, DBMS, Cloud Infrastructures, and Stable Diffusion workflows. I am seeking a dynamic role in software engineering, AI/ML, or Deep Learning, where I can leverage my technical proficiency to develop impactful software solutions. Driven by curiosity and a passion for innovation, I constantly strive to learn and implement new technologies to enhance the efficiency and scalability of systems. With strong problem-solving abilities, excellent communication skills, and a proactive approach, I am ready to contribute to cutting-edge projects and software solutions.</h3>
 
 
 
